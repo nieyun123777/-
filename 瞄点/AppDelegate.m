@@ -16,8 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    NSLog(@"hahah");
-    NSLog(@"hahahha");
+       NSLog(@"这是第一个分支");
     // Override point for customization after application launch.
     return YES;
 }
